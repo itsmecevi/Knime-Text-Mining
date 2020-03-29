@@ -13,7 +13,7 @@
 * [Knime-Text-Mining-Part3](https://docs.google.com/presentation/d/1xeFdft5niJkFHm4MAmWPnCOiAk5n5jhUWWt3Iw6r6Lc/edit?usp=sharing) , [Exercise 7-13](https://github.com/itsmecevi/TextprocessingCourse-Exercises7-13/blob/master/TextprocessingCourse-Exercises7-13.knar)
 _____
 
-* [Text-Mining-Supplementary-Workflows](https://docs.google.com/presentation/d/1xeFdft5niJkFHm4MAmWPnCOiAk5n5jhUWWt3Iw6r6Lc/edit?usp=sharing) , [Exercise Supplementary Workflows](https://github.com/itsmecevi/TextprocessingCourse-Exercises7-13/blob/master/TextprocessingCourse-Exercises7-13.knar)
+* [Supplementary-Workflows](https://docs.google.com/presentation/d/1xeFdft5niJkFHm4MAmWPnCOiAk5n5jhUWWt3Iw6r6Lc/edit?usp=sharing) , [Exercise](https://github.com/itsmecevi/TextprocessingCourse-Exercises7-13/blob/master/TextprocessingCourse-Exercises7-13.knar)
 
 
    
