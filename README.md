@@ -14,7 +14,7 @@
 
 _____
 
-* [Supplementary-Workflows](https://docs.google.com/presentation/d/1RLnkQkgbD2ihMC1HePxPbZoxaeqHyf6UlhNDXfk2SXs/edit?usp=sharing) , [Exercise](https://github.com/itsmecevi/TextprocessingCourse-Exercises7-13/blob/master/TextprocessingCourse-Exercises7-13.knar)
+* [Supplementary-Workflows](https://docs.google.com/presentation/d/1RLnkQkgbD2ihMC1HePxPbZoxaeqHyf6UlhNDXfk2SXs/edit?usp=sharing) , [Exercise](https://github.com/itsmecevi/TextprocessingCourse-SupplementaryWorkflows/blob/master/README.md)
 
 
    
